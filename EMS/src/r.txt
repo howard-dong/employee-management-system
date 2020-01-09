@@ -1,0 +1,5 @@
+102010&Colin&Wu&Male&0.25&Mississauga&100000.0
+111111&a&aaa&Male&0.2&Iqaluit&80000.0
+222222&b&bb&Female&0.11&Toronto&10.0
+333333&c&cc&Male&0.2&moon&0.0
+END

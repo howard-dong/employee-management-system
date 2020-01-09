@@ -1,0 +1,4 @@
+102010&Colin&Wu&Male&0.25&Mississauga&100000.0
+111111&a&aaa&Male&0.2&Iqaluit&80000.0
+383722&Howard&Dong&Male&0.35&Mississauga&100.0&40.0&30.0
+END
